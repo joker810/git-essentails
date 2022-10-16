@@ -1,5 +1,7 @@
 # git-essentails
+
 ##staging a file
-add files
+*add files*
+
 ##staged file
 commit made
