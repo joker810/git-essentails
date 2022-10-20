@@ -1,5 +1,3 @@
-# git-essentails
-
 ##staging a file
 *add files*
 
@@ -9,4 +7,5 @@ commit made
 ##difference file
 git diff made
 
-##pull request
+##pull request done
+
